@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+}
+
+.jumbotron {
+    background-color: blue;
+}
+
+h1 {
+    color: #f8f8ff; /*Off-white*/
+}
